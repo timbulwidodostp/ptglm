@@ -1,6 +1,8 @@
 # ptglm
 Poisson-Tweedie generalized linear model Use ptglm (ptmixed) With (In) R Software
 
+https://www.youtube.com/watch?v=rjsFPgQpfK4
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
